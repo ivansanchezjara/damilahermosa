@@ -6,7 +6,7 @@ Esta enojada porque no le di mi direccion.
 Pero es muy chuli.
 Y es arquitecta
 
-Ahora para terminar esta pagina, quisiera compartir esta hermosa reflexion con ustedes.
+### Ahora para terminar esta pagina, quisiera compartir esta hermosa reflexion con ustedes.
 En la radio hay un pollito 
 En la radio hay un pollito 
 Y el pollito PÍO 
