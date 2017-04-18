@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Dani, la arquitecta mas hermosa
 
-You can use the [editor on GitHub](https://github.com/ivansanchezjara/damilahermosa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ella es unica, brillante, dedicada.
+Hace huevos de pascua y son muy lindos.
+Esta enojada porque no le di mi direccion.
+Pero es muy chuli.
+Y es arquitecta
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ahora para terminar esta pagina, quisiera compartir esta hermosa reflexion con ustedes.
+En la radio hay un pollito 
+En la radio hay un pollito 
+Y el pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
 
-### Markdown
+En la radio hay una gallina 
+En la radio hay una gallina 
+Y la gallina COO 
+El pollito PÍO 
+El pollito PÍO
+En la radio hay también un gallo 
+En la radio hay también un gallo 
+Y el gallo COCOROCÓ 
+Y la gallina COO 
+Y el pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En la radio hay un pavo 
+En la radio hay un pavo 
+Y el pavo GLÚ GLÚ GLÚ 
+Y el gallo COCOROCÓ 
+Y la gallina COO 
+Y el pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
 
-```markdown
-Syntax highlighted code block
+En la radio hay una paloma 
+En la radio hay una paloma 
+Y la paloma RUU 
+El pavo GLÚ GLÚ GLÚ 
+El gallo COCOROCÓ 
+La gallina COO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
 
-# Header 1
-## Header 2
-### Header 3
+En la radio hay también un gato 
+En la radio hay también un gato 
+Y el gato MIAO 
+La paloma RUU 
+El pavo GLÚ GLÚ GLÚ 
+El gallo COCOROCÓ 
+La gallina COO 
+Y el pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
+El pollito PÍO 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivansanchezjara/damilahermosa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+En la radio hay también un perro 
+En la radio hay también un perro 
+Y el perro GUAU GUAU 
+El gato MIAO 
+La paloma RUU 
+El pavo GLÚ GLÚ GLÚ 
+El gallo COCOROCÓ 
+La gallina COO 
+Y el pollito PÍO 
